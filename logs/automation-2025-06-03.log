@@ -1,0 +1,49 @@
+13:28:12.896 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - FINISHED MY TEST CASE TC_003
+13:28:12.915 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - I AM STARTING MY TEST CASE TC_003
+17:14:10.432 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001
+17:14:14.113 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - FINISHED MY TEST CASE TC_001
+17:14:17.919 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - I AM STARTING MY TEST CASE TC_002
+17:14:20.258 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - FINISHED MY TEST CASE TC_002
+17:14:23.749 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - I AM STARTING MY TEST CASE TC_003
+17:14:26.641 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - FINISHED MY TEST CASE TC_003
+17:14:26.676 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - I AM STARTING MY TEST CASE TC_003
+17:14:29.584 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - FINISHED MY TEST CASE TC_003
+17:14:29.597 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - I AM STARTING MY TEST CASE TC_003
+17:20:35.105 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001
+17:20:38.106 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - FINISHED MY TEST CASE TC_001
+17:20:42.309 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - I AM STARTING MY TEST CASE TC_002
+17:20:44.948 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - FINISHED MY TEST CASE TC_002
+17:20:48.839 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - I AM STARTING MY TEST CASE TC_003
+17:20:51.659 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - FINISHED MY TEST CASE TC_003
+17:20:51.694 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - I AM STARTING MY TEST CASE TC_003
+17:20:54.302 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - FINISHED MY TEST CASE TC_003
+17:20:54.314 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - I AM STARTING MY TEST CASE TC_003
+17:23:42.645 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001
+17:23:45.996 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - FINISHED MY TEST CASE TC_001
+17:23:49.749 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - I AM STARTING MY TEST CASE TC_002
+17:23:51.918 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - FINISHED MY TEST CASE TC_002
+17:23:55.774 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - I AM STARTING MY TEST CASE TC_003
+17:23:58.296 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - FINISHED MY TEST CASE TC_003
+17:23:58.323 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - I AM STARTING MY TEST CASE TC_003
+17:24:00.868 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - FINISHED MY TEST CASE TC_003
+17:24:00.881 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - I AM STARTING MY TEST CASE TC_003
+17:26:24.698 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001
+17:26:28.515 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - FINISHED MY TEST CASE TC_001
+17:26:32.360 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - I AM STARTING MY TEST CASE TC_002
+17:27:36.763 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001
+17:27:40.069 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - FINISHED MY TEST CASE TC_001
+17:27:43.750 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - I AM STARTING MY TEST CASE TC_002
+17:27:45.792 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - FINISHED MY TEST CASE TC_002
+17:27:49.831 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - I AM STARTING MY TEST CASE TC_003
+17:27:52.668 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - FINISHED MY TEST CASE TC_003
+17:27:52.710 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - I AM STARTING MY TEST CASE TC_003
+17:27:55.356 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - FINISHED MY TEST CASE TC_003
+17:27:55.381 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - I AM STARTING MY TEST CASE TC_003
+17:38:00.037 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001
+17:38:03.040 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - FINISHED MY TEST CASE TC_001
+17:38:07.290 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - I AM STARTING MY TEST CASE TC_002
+09:56:40.488 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001
+09:56:44.304 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - FINISHED MY TEST CASE TC_001
+09:56:48.050 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - I AM STARTING MY TEST CASE TC_002
+09:56:50.461 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - FINISHED MY TEST CASE TC_002
+10:07:43.409 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001

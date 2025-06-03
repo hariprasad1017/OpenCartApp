@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-03T15:33:12 IST" name="SuiteExample" finished-at="2025-06-03T15:33:27 IST" duration-ms="15464">
+    <groups>
+    </groups>
+    <test started-at="2025-06-03T15:33:12 IST" name="chromeTest" finished-at="2025-06-03T15:33:27 IST" duration-ms="15464">
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <test-method is-config="true" signature="stepup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_AccountRegistrationTest@751d3241]" started-at="2025-06-03T15:33:12 IST" name="stepup" finished-at="2025-06-03T15:33:17 IST" duration-ms="4380" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stepup -->
+        <test-method signature="verify_account_registrartion()[pri:0, instance:testCases.TC001_AccountRegistrationTest@751d3241]" started-at="2025-06-03T15:33:17 IST" name="verify_account_registrartion" finished-at="2025-06-03T15:33:20 IST" duration-ms="3399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_account_registrartion -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC001_AccountRegistrationTest@751d3241]" started-at="2025-06-03T15:33:20 IST" name="teardown" finished-at="2025-06-03T15:33:21 IST" duration-ms="885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+      <class name="testCases.TC002_AccountLoginTest">
+        <test-method is-config="true" signature="stepup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_AccountLoginTest@4e76dac]" started-at="2025-06-03T15:33:21 IST" name="stepup" finished-at="2025-06-03T15:33:24 IST" duration-ms="3389" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stepup -->
+        <test-method signature="verify_Account_Login()[pri:0, instance:testCases.TC002_AccountLoginTest@4e76dac]" started-at="2025-06-03T15:33:24 IST" name="verify_Account_Login" finished-at="2025-06-03T15:33:27 IST" duration-ms="2166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Account_Login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC002_AccountLoginTest@4e76dac]" started-at="2025-06-03T15:33:27 IST" name="teardown" finished-at="2025-06-03T15:33:27 IST" duration-ms="788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC002_AccountLoginTest -->
+    </test> <!-- chromeTest -->
+  </suite> <!-- SuiteExample -->
+</testng-results>
