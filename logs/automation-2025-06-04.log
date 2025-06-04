@@ -1,0 +1,52 @@
+10:25:29.379 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001
+10:25:34.351 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - FINISHED MY TEST CASE TC_001
+10:25:45.421 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - I AM STARTING MY TEST CASE TC_002
+10:25:48.475 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - FINISHED MY TEST CASE TC_002
+14:38:46.386 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001
+14:38:49.121 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - FINISHED MY TEST CASE TC_001
+14:38:52.160 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - I AM STARTING MY TEST CASE TC_002
+14:38:53.782 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - FINISHED MY TEST CASE TC_002
+14:52:33.577 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001
+14:52:36.298 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - FINISHED MY TEST CASE TC_001
+14:52:39.879 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - I AM STARTING MY TEST CASE TC_002
+14:52:41.676 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - FINISHED MY TEST CASE TC_002
+14:59:35.888 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\Desktop\Selenium work_location\Sample_Project\testng.xml
+
+14:59:41.270 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001
+14:59:44.067 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - FINISHED MY TEST CASE TC_001
+14:59:48.213 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - I AM STARTING MY TEST CASE TC_002
+14:59:50.168 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - FINISHED MY TEST CASE TC_002
+15:14:22.236 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001
+15:14:24.754 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - FINISHED MY TEST CASE TC_001
+15:14:28.631 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - I AM STARTING MY TEST CASE TC_002
+15:14:30.362 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - FINISHED MY TEST CASE TC_002
+15:14:56.332 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\Desktop\Selenium work_location\Sample_Project\testng.xml
+
+15:15:00.903 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001
+15:15:05.847 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - FINISHED MY TEST CASE TC_001
+15:15:09.427 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - I AM STARTING MY TEST CASE TC_002
+15:15:11.175 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - FINISHED MY TEST CASE TC_002
+15:33:12.418 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\Desktop\Selenium work_location\Sample_Project\testng.xml
+
+15:33:17.252 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001
+15:33:20.629 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - FINISHED MY TEST CASE TC_001
+15:33:24.953 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - I AM STARTING MY TEST CASE TC_002
+15:33:27.111 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - FINISHED MY TEST CASE TC_002
+15:56:59.139 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001
+15:57:02.860 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - FINISHED MY TEST CASE TC_001
+15:57:07.340 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - I AM STARTING MY TEST CASE TC_002
+15:57:09.825 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - FINISHED MY TEST CASE TC_002
+15:58:08.335 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001
+15:58:12.030 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - FINISHED MY TEST CASE TC_001
+15:58:15.410 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - I AM STARTING MY TEST CASE TC_002
+15:58:17.781 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - FINISHED MY TEST CASE TC_002
+16:07:47.143 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001
+16:07:50.647 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - FINISHED MY TEST CASE TC_001
+16:07:53.967 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - I AM STARTING MY TEST CASE TC_002
+16:07:56.896 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - FINISHED MY TEST CASE TC_002
+09:40:08.059 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - I AM STARTING MY TEST CASE TC_001
+09:40:12.768 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - FINISHED MY TEST CASE TC_001
+09:40:16.863 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - I AM STARTING MY TEST CASE TC_002

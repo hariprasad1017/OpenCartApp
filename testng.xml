@@ -12,7 +12,7 @@
 
 	<test name="chromeTest">
 	    <parameter name="os" value="windows" />
-		<parameter name="browser" value="chrome" />
+		<parameter name="browser" value="edge" />
 		
 		<classes>
 			 <class name="testCases.TC001_AccountRegistrationTest" /> 
